@@ -6,7 +6,7 @@
 
 ##############################################
 # Instructions
-# Install all tools in separate environments tailored to each one
+# Install all tools in separate environments tailored to each one, including snakemake
 # If the environment name differs from the one listed in this file, make the necessary adjustments in each case
 # Environment locations are at your discretion; adjust them as your needs
 # Output file locations for each tool are at your discretion; adjust them as your needs
